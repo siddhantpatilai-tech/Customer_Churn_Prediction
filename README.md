@@ -40,9 +40,9 @@ churn_project/
 pip install -r requirements.txt
 ```
 
-### 2. Generate dataset (already included)
+### 2. Basic Exploratory Data Analysis (EDA)
 ```bash
-python generate_dataset.py
+python train_model.py
 ```
 
 ### 3. Train models (already trained, artifacts.pkl included)
